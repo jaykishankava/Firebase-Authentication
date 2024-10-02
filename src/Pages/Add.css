@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url('https://img.freepik.com/free-photo/3d-rendering-hexagonal-texture-background_23-2150796421.jpg');
+    background-size: cover;
+}
+.bg{
+    background-color: rgb(104, 110, 118);
+    color: #fff;
+}
